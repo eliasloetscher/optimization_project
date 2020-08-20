@@ -1,0 +1,17 @@
+PSO Evaluation 
+ 
+Date and Time: 2020-08-19 20:13:41.677720
+ 
+Number of tests: 100
+Number of particles: 100
+ 
+Number of time steps: 50
+v_inertia: [0, 0]
+v_best_global: 20
+v_best_local: 0
+v_swarm_center: 0
+hc_enable: True
+hc_number_of_elements: 30
+Average time in ms: 2751.71724319458
+Success rate in percent: 42.0
+Number of fitness evaluations in total: 24658.35

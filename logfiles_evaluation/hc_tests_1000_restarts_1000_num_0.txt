@@ -1,0 +1,10 @@
+GS Evaluation 
+ 
+Date and Time: 2020-08-18 18:01:06.263698
+ 
+Number of tests: 1000
+Number of random restarts: 1000
+ 
+Average time in ms: 43.37020421028137
+Success rate in percent: 7.7
+Number of fitness evaluations in total: 20563.276

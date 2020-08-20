@@ -1,0 +1,7 @@
+BF Evaluation 
+ 
+Date and Time: 2020-08-17 17:19:58.082004
+ 
+Number of tests: 1000
+Average time in ms: 1413.1226801872253
+Success rate in percent: 100

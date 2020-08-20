@@ -1,0 +1,9 @@
+PRS Evaluation 
+ 
+Date and Time: 2020-08-18 17:06:29.371388
+ 
+Number of tests: 1000
+Number of fitness evaluations: 2000000
+ 
+Average time in ms: 6090.124887228012
+Success rate in percent: 62.5
